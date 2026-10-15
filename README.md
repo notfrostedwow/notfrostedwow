@@ -1,7 +1,7 @@
 **Zaheer Miah**
 
-I'm a London-based IT student building web and mobile apps. I'm interested in cybersecurity and cloud infrastructure.
+London-based IT student building web and mobile apps with TypeScript, JavaScript, React, React Native, Expo and Express.
 
-I've been working on Lockra, a messaging app built with Expo, React Native and TypeScript, alongside a study app, a Grow a Garden companion app and a React/Express crypto portfolio tracker.
+My main projects are Lockra, a messaging app built with Expo, React Native and TypeScript, and EdgeVue, a trading journal. I've also worked on a React/Express crypto portfolio tracker, a study app and a Grow a Garden companion app.
 
-I'm also building EdgeVue, a trading journal. Some of my projects are private while I work on them.
+I'm interested in cybersecurity and cloud infrastructure. Most of my app projects are currently private.
