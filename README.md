@@ -5,7 +5,7 @@ I'm a Level 3 IT student at NCC London, UK. I've been coding for 6+ years, start
 ## 🙋 About me
 
 - 🎓 Studying the Level 3 National Extended Diploma in IT.
-- 🛠️ Building **EdgeVue**, a trading journal, and **Lockra**, a messaging app.
+- 🛠️ Building EdgeVue, a trading journal app (in progress), and **Lockra**, a messaging app.
 - 🌱 Interested in software development, cloud computing and cyber security.
 - 🔍 Currently spending more time on testing, application security and making my projects easier to run.
 
@@ -32,9 +32,6 @@ Finds suspicious login patterns in authentication logs and explains why they wer
 
 ### 🔗 [Serverless URL shortener](https://github.com/notfrostedwow/serverless-url-shortener)
 Creates short links with expiry dates and validates destination URLs. Includes a local HTTP service, automated tests and AWS adapters you can explore without deploying anything.
-
-### 📈 [EdgeVue](https://edgevue-com.vercel.app)
-A trading journal I'm building to help traders review their trades and habits. The app is online; its source code is private.
 
 ### 💬 Lockra · work in progress
 My messaging app, currently being restored and improved. The repository is private while I work through testing and security checks.
