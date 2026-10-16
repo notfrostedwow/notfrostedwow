@@ -1,26 +1,47 @@
-# Zaheer Miah
+# Hi, I'm Zaheer 👋
 
-IT student in the UK building software and learning how to test it properly.
-My public projects focus on Python, defensive security and cloud application design.
+I'm a Level 3 IT student at NCC London, UK. I like building software I can actually use, and figuring out what happens when it breaks.
 
-## Selected projects
+## 🙋 About me
 
-**[Log anomaly detector](https://github.com/notfrostedwow/log-anomaly-detector)**
-Analyzes authentication logs for failed-login bursts, password sprays and logins
-outside an explicit baseline. Includes synthetic datasets, explainable reports,
-bounded input handling and an offline-tested S3/Lambda adapter.
+- 🎓 Studying the Level 3 National Extended Diploma in IT.
+- 🛠️ Building **EdgeVue**, a trading journal, and **Lockra**, a messaging app.
+- 🌱 Interested in software development, cloud computing and cyber security.
+- 🔍 Currently spending more time on testing, application security and making my projects easier to run.
 
-**[Serverless URL shortener](https://github.com/notfrostedwow/serverless-url-shortener)**
-A local HTTP service with expiring links, strict URL validation and collision-safe
-storage. Includes a DynamoDB adapter and an undeployed AWS SAM design for
-API Gateway and Lambda.
+## 💻 My tech stack
 
-Both projects run locally without cloud credentials, have Python 3.11/3.12 CI
-and include tests, security notes and architecture diagrams. The AWS templates
-are portfolio implementations, not claims of deployed production services.
+Tools and technologies I use across my projects.
 
-I also work with TypeScript, React and React Native. I'm developing my skills
-in application security, automated testing and cloud infrastructure through
-working projects.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[Find me on GitHub](https://github.com/notfrostedwow).
+## 🚀 Featured projects
+
+### 🔎 [Log anomaly detector](https://github.com/notfrostedwow/log-anomaly-detector)
+Finds suspicious login patterns in authentication logs and explains why they were flagged. Runs locally with sample data, tests and an optional AWS design.
+
+### 🔗 [Serverless URL shortener](https://github.com/notfrostedwow/serverless-url-shortener)
+Creates short links with expiry dates and validates destination URLs. Includes a local HTTP service, automated tests and AWS adapters you can explore without deploying anything.
+
+### 📈 [EdgeVue](https://edgevue-com.vercel.app)
+A trading journal I'm building to help traders review their trades and habits. The app is online; its source code is private.
+
+### 💬 Lockra · work in progress
+My messaging app, currently being restored and improved. The repository is private while I work through testing and security checks.
+
+## 📊 GitHub activity
+
+[![Zaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=notfrostedwow&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true)](https://github.com/notfrostedwow?tab=repositories)
+
+[![Zaheer's contribution streak](https://streak-stats.demolab.com/?user=notfrostedwow&theme=github-dark-blue&hide_border=true)](https://github.com/notfrostedwow?tab=overview)
+
+These cards use public GitHub activity and may take a while to update.
+
+## 🤝 Get in touch
+
+Find me here on [GitHub @notfrostedwow](https://github.com/notfrostedwow).
