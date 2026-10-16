@@ -73,7 +73,7 @@ Finds suspicious login patterns in authentication logs and explains why they wer
 Creates short links with expiry dates and validates destination URLs. Includes a local HTTP service, automated tests and AWS adapters you can explore without deploying anything.
 
 ### 💬 Lockra · work in progress
-My messaging app, currently being restored and improved. The repository is private while I work through testing and security checks.
+My messaging app, with a restored public demo at [lockra-messaging-app](https://github.com/notfrostedwow/lockra-messaging-app). The original repository stays private; the demo uses synthetic data, with live calling disabled.
 
 ## 📊 GitHub activity
 
